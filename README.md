@@ -1,1 +1,1 @@
-# dumb_game
+A small doom-like not finished game, created using python
